@@ -10,7 +10,7 @@ const TableWrapper = styled('div')`
 `;
 
 const Thead = styled(TableRow)`
-background: #000F;
+background: #3E5172;
 & > th {
     color:#fff;
     font-size: 20px;

@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "vicky kaushal",
+      "username": "vickyk",
+      "email": "vickykaushal@gmail.com",
+      "phone": "9865327410"
+    },
+    {
+      "id": "3",
+      "name": "Ayushman Khurana",
+      "username": "AyushmanK",
+      "email": "ayushk@gmail.com",
+      "phone": "7896523145"
+    },
+    {
+      "id": "4",
+      "name": "vicky kaushal",
+      "username": "gamerzx1",
+      "email": "pktripathi@gmail.com",
+      "phone": "7896523145"
+    },
+    {
+      "id": 5,
+      "name": "dsdsds",
+      "username": "vickyk",
+      "email": "ayushk@gmail.com",
+      "phone": "7852369852"
+    }
+  ]
+}
